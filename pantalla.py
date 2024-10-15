@@ -25,11 +25,10 @@ logo_image = pygame.image.load("loguito.png")
 
 # Colores de los botones
 button_color = (0, 255, 255)
-hover_color = (35, 235, 171)
+hover_color = (255, 255, 255 )
 
-#Cargar iconos de botones
 
-# Fuente
+# Fuente y su tamaño
 font = pygame.font.Font('martian.ttf', 48)
 
 # Dimensiones de los botones
